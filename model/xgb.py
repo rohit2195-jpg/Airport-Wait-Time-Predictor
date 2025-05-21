@@ -1,19 +1,11 @@
 
 from sklearn import linear_model
 import pandas as pd
-import matplotlib.pyplot as plt
-from meteostat import *
-from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
+
 import datetime as dt
 import holidays
-from sklearn.neighbors import KNeighborsRegressor
-from sklearn.tree import DecisionTreeRegressor
-from sklearn.ensemble import GradientBoostingRegressor
-import pickle
-import xgboost as xg
-import os
+
 import numpy as np
-from sklearn.model_selection import GridSearchCV
 
 def xgb_model(train, test, airport_to_location, air_code):
 

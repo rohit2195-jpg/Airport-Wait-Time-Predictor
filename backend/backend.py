@@ -6,7 +6,6 @@ import numpy as np
 import pickle
 import pandas as pd
 import holidays
-from opensky_api import OpenSkyApi
 import pytz
 import datetime as dt
 
@@ -33,7 +32,6 @@ for line in lines:
     if (line[0].strip("\"") == "US"):
         iata_to_icaoUS[line[2].strip("\"")] = line[3].strip("\"")
 
-flight_api = OpenSkyApi()
 
 @app.route('/live', methods=['POST'])
 def live():
