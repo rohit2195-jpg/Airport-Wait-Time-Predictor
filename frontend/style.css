@@ -1,0 +1,48 @@
+
+html, body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url("blurred_airport_terminal_with_bokeh_light_background_960396_6375136829f7366f11b_jpg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+.page {
+    margin: auto;
+    padding-top: 1px;
+    text-align: center;
+    background-color: lightgray;
+    opacity: 0.95;
+    height: 100%;
+    width: 600px;
+
+}
+
+.form {
+
+
+}
+.info {
+    display: inline;
+}
+#inf {
+    width: 20px;
+}
+.submit {
+    background-color: cornflowerblue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+}
+.submit:hover {
+    background-color: royalblue;
+}
