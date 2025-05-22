@@ -1,6 +1,6 @@
 # ✈️ Airport Wait Time Predictor for Chicago O'Hare Airport
 
-## 📌 Overview
+##  Overview
 
 This project leverages machine learning to predict airport wait times. Currently, the model supports **Chicago O'Hare International Airport**, with plans to expand to additional airports in the future.
 
@@ -25,7 +25,7 @@ Trained models are saved in the `saved_models/` directory.
 
 ---
 
-## 🧪 Testing Instructions
+##  Testing Instructions
 
 1. Start the backend:
    ```bash
@@ -37,7 +37,7 @@ Trained models are saved in the `saved_models/` directory.
 # Useful Links
 1. Link to dataset {https://awt.cbp.gov}
 
-## 🚀 Future Work
+##  Future Work
 
 - Add support for additional airports
 - Improve model accuracy
