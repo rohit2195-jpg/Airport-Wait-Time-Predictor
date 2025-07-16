@@ -1,0 +1,26 @@
+AirportCode,AirportName,Average_0_15_PassengerCount,Average_121_PassengerCount,Average_16_30_PassengerCount,Average_31_45_PassengerCount,Average_46_60_PassengerCount,Average_61_90_PassengerCount,Average_91_120_PassengerCount,AverageWait,BoothsUsed,ExcludedPassengerCount,FlightCount,FlightDate,GlobalEntryPassengerCount,HourRange,LastUpdated,MaxWait,NonUsaPassengerAverageWait,NonUsaPassengerCount,NonUsaPassengerMaxWait,SiteId,TerminalName,TotalPassengerCount,UsaPassengerAverageWait,UsaPassengerCount,UsaPassengerMaxWait
+PDX,Portland International Airport,117,0,64,6,0,0,0,12,5,10,1,2025-05-25,21,1600 - 1700,2025-06-02 00:00:00,33,17,46,33,A291,Main,197,11,151,23
+PDX,Portland International Airport,271,0,154,0,0,0,0,12,5,18,2,2025-05-25,80,1700 - 1800,2025-06-02 00:00:00,29,11,41,24,A291,Main,443,12,402,29
+PDX,Portland International Airport,70,0,77,32,0,0,0,19,5,10,1,2025-05-25,3,2000 - 2100,2025-06-02 00:00:00,38,17,78,37,A291,Main,189,20,111,38
+PDX,Portland International Airport,59,0,29,0,0,0,0,11,3,2,1,2025-05-26,5,0100 - 0200,2025-06-02 15:30:00,24,13,69,24,A291,Main,90,4,21,24
+PDX,Portland International Airport,154,0,86,7,0,0,0,11,5,8,1,2025-05-26,45,1200 - 1300,2025-06-02 15:30:00,33,16,56,33,A291,Main,255,10,199,27
+PDX,Portland International Airport,127,0,74,18,0,0,0,13,5,12,1,2025-05-26,60,1700 - 1800,2025-06-02 15:30:00,35,18,28,35,A291,Main,231,13,203,34
+PDX,Portland International Airport,69,0,63,46,0,0,0,20,7,8,1,2025-05-26,7,2000 - 2100,2025-06-02 15:30:00,42,19,71,42,A291,Main,186,20,115,42
+PDX,Portland International Airport,134,0,105,0,0,0,0,14,7,14,1,2025-05-27,48,1200 - 1300,2025-06-02 15:30:00,30,18,64,30,A291,Main,253,13,189,30
+PDX,Portland International Airport,130,0,85,29,0,0,0,15,5,13,1,2025-05-27,31,1400 - 1500,2025-06-02 15:30:00,36,17,60,36,A291,Main,257,14,197,36
+PDX,Portland International Airport,135,0,106,0,0,0,0,13,5,8,1,2025-05-27,63,1700 - 1800,2025-06-02 15:30:00,28,11,26,26,A291,Main,249,13,223,28
+PDX,Portland International Airport,143,0,117,79,0,0,0,19,5,19,2,2025-05-27,31,2000 - 2100,2025-06-02 15:30:00,44,17,85,44,A291,Main,358,19,273,44
+PDX,Portland International Airport,193,0,44,0,0,0,0,6,6,7,1,2025-05-28,61,1700 - 1800,2025-06-02 15:30:00,24,13,41,24,A291,Main,244,5,203,23
+PDX,Portland International Airport,81,0,62,25,0,0,0,17,4,10,1,2025-05-28,0,2000 - 2100,2025-06-02 15:30:00,39,21,111,39,A291,Main,178,10,67,26
+PDX,Portland International Airport,143,0,83,0,0,0,0,12,7,10,1,2025-05-29,41,1700 - 1800,2025-06-02 15:30:00,30,16,49,30,A291,Main,236,11,187,26
+PDX,Portland International Airport,142,0,13,0,0,0,0,7,6,7,1,2025-05-29,22,1900 - 2000,2025-06-02 15:30:00,20,13,24,20,A291,Main,162,6,138,17
+PDX,Portland International Airport,90,0,47,30,0,0,0,16,6,8,1,2025-05-29,2,2000 - 2100,2025-06-02 15:30:00,40,20,110,40,A291,Main,175,9,65,36
+PDX,Portland International Airport,140,0,64,42,3,0,0,15,5,6,1,2025-05-30,23,1100 - 1200,2025-06-02 15:30:00,46,25,84,46,A291,Main,255,11,171,44
+PDX,Portland International Airport,126,0,95,7,0,0,0,14,7,13,1,2025-05-30,19,1400 - 1500,2025-06-02 15:30:00,33,17,64,33,A291,Main,241,13,177,30
+PDX,Portland International Airport,112,0,97,26,0,0,0,16,5,8,1,2025-05-30,42,1700 - 1800,2025-06-02 15:30:00,33,13,32,27,A291,Main,243,16,211,33
+PDX,Portland International Airport,81,0,56,19,0,0,0,16,5,8,1,2025-05-30,1,2000 - 2100,2025-06-02 15:30:00,36,18,100,36,A291,Main,164,12,64,30
+PDX,Portland International Airport,127,0,57,50,0,0,0,15,4,8,1,2025-05-31,44,1100 - 1200,2025-06-02 15:30:00,43,19,69,43,A291,Main,242,14,173,43
+PDX,Portland International Airport,238,0,146,0,0,0,0,12,7,16,2,2025-05-31,69,1700 - 1800,2025-06-02 15:30:00,25,14,48,25,A291,Main,400,12,352,25
+PDX,Portland International Airport,153,0,0,0,0,0,0,7,5,6,1,2025-05-31,25,1900 - 2000,2025-06-02 15:30:00,14,6,2,11,A291,Main,159,7,157,14
+PDX,Portland International Airport,84,0,86,3,0,0,0,15,5,8,1,2025-05-31,0,2000 - 2100,2025-06-02 15:30:00,31,16,92,31,A291,Main,181,14,89,30
+PDX,Portland International Airport,138,0,29,0,0,0,0,9,5,8,1,2025-05-31,22,2100 - 2200,2025-06-02 15:30:00,21,11,10,21,A291,Main,175,9,165,21

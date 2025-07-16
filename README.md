@@ -76,11 +76,18 @@ Trained models are saved in the `saved_models/` directory.
 ---
 
 ##  Testing Instructions
+0. Clone project
+   ```bash
+   git clone https://github.com/rohit2195-jpg/Airport-Wait-Time-Predictor
+   cd Airport-Wait-Time-Predictor
+1. Prepare and Start the backend:
 
-1. Start the backend:
    ```bash
    cd backend
-   python backend.py
+   python3 -m venv .venv
+   source .venv/bin/activate
+   .venv/bin/pip install -r requirements.txt
+   .venv/bin/python backend.py
 
 2. Start the frontend by running index.html
 
