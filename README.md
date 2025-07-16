@@ -99,3 +99,8 @@ Trained models are saved in the `saved_models/` directory.
 - Add support for additional airports
 - Improve model accuracy
 - Deploy app on AWS
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
