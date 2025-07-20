@@ -82,14 +82,17 @@ Trained models are saved in the `saved_models/` directory.
    cd Airport-Wait-Time-Predictor
 1. Prepare and Start the backend:
 
+   Models regarding tensorflow is currently unavailable because it is not supported in the newest python version.
+   
+
    ```bash
    cd backend
    python3 -m venv .venv
    source .venv/bin/activate
-   .venv/bin/pip install -r requirements.txt
+   .venv/bin/pip install -r requirements.txt | OR | pip install --only-binary=:all: -r requirements.txt
    .venv/bin/python backend.py
 
-2. Start the frontend by running index.html
+3. Start the frontend by running index.html
 
 # Useful Links
 1. Link to dataset {https://awt.cbp.gov}
