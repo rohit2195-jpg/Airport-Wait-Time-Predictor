@@ -25,8 +25,9 @@ iata_to_time = {
 
 iata_to_icaoUS = {
 }
-iata_file = open("iata-icao.csv","r")
-lines = iata_file.readlines()
+with open("iata-icao.csv", "r", encoding="utf-8") as iata_file:
+    lines = iata_file.readlines()
+
 for line in lines:
     line = line.strip().split(",")
     if (line[0].strip("\"") == "US"):
